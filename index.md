@@ -1,4 +1,4 @@
-## Heart & Sole Booster Club
+## Heart And Sole Dance Team Booster Club
 
 ## Mission Statement
 
