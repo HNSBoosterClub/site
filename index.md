@@ -10,7 +10,7 @@ Support youth amateur sports competitions and physical education by subsidizing 
 
 ### IRS Filings
 
-- 1023 Filed on 2021/12/04 (Pending)
+- [501(c)3 Public Charity Status](static/non-profit-status.pdf)
 
 ### Support or Contact
 
