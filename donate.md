@@ -1,6 +1,4 @@
----
-title: "Online Donation Form"
----
+# Donation Form
 
 <div id="CustomDonationsForm"></div>
 
