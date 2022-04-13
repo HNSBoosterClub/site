@@ -1,4 +1,3 @@
-# Mission Statement
 Support youth amateur sports competitions and physical education by subsidizing dance competition fees for competitive dance teams.
 
 # Arizona State Filings
@@ -16,4 +15,4 @@ Support youth amateur sports competitions and physical education by subsidizing 
 
 - [Donate](donate.md)
 - [Star Gram](stargram.md)
-- [Contact Us](mailto:team@hnsbooster.org)
+- [Contact Us](mailto:team@hnsbooster.com)
