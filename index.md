@@ -1,6 +1,8 @@
 ---
-title: "Mission Statement"
+title: "Heart & Sole Dance Team Booster Club"
 ---
+
+# Mission Statement
 
 Support youth amateur sports competitions and physical education by subsidizing dance competition fees for competitive dance teams.
 

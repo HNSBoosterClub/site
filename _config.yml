@@ -3,3 +3,5 @@ name: Heart And Sole Dance Team Booster Club
 title: Heart And Sole Dance Team Booster Club
 header_pages:
   - donate.md
+github:
+  is_project_page: false
