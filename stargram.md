@@ -1,4 +1,6 @@
-# Star Gram Online Donation Form
+---
+title: "Star Gram Online Donation Form"
+---
 
 <div id="CustomDonationsForm"></div>
 
